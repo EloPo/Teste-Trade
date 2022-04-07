@@ -1,8 +1,8 @@
 # Processo Seletivo Trade Technology
 
-Analise  a situaçãodescrita  abaixo  e  deixe  seus  arquivos  (solução)no GitHubemsequência de passospara reproduzir e executar o projeto.
+Analise  a situação descrita  abaixo  e  deixe  seus  arquivos(solução) no GitHu bem sequência de passos para reproduzir e executar o projeto.
 
-O objetivo deste teste é automatizar algumas rotinas em um e-commerce falso (http://automationpractice.com).
+O objetivo deste teste é automatizar algumas rotinas em um e-commerce falso(http://automationpractice.com).
 
 Nesse teste pedimos para automatizar 2 fluxos:
 
